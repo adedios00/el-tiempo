@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/el-tiempo/static/css/main.78d8d10a.css",
+    "main.js": "/el-tiempo/static/js/main.a56a0fe7.js",
+    "static/js/787.2e93227b.chunk.js": "/el-tiempo/static/js/787.2e93227b.chunk.js",
+    "index.html": "/el-tiempo/index.html",
+    "main.78d8d10a.css.map": "/el-tiempo/static/css/main.78d8d10a.css.map",
+    "main.a56a0fe7.js.map": "/el-tiempo/static/js/main.a56a0fe7.js.map",
+    "787.2e93227b.chunk.js.map": "/el-tiempo/static/js/787.2e93227b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78d8d10a.css",
+    "static/js/main.a56a0fe7.js"
+  ]
+}

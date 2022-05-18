@@ -12,4 +12,4 @@ Esta aplicación no necesita instalación.
 
 ## Autores ✒️
 
-* **Antonio Francisco de Dios Moreno** - *Contacto* - [Linkedin]([https://github.com/villanuevand](https://www.linkedin.com/in/antonio-francisco-de-dios-moreno-9213911b8/))
+* **Antonio Francisco de Dios Moreno** - *Contacto* - [Linkedin](https://www.linkedin.com/in/antonio-francisco-de-dios-moreno-9213911b8/)
